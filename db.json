@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Munbe Vaa en Anbe Vaa",
+      "singer": "Naresh Iyer and Shreya Koshal",
+      "genre": "Romantic",
+      "imgUrl": "https://i.pinimg.com/736x/c6/4f/57/c64f578e1484463a6a8fd6d8cff55af7.jpg",
+      "songUrl": "Songs/munbe va.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Unnodu Vazhadha",
+      "singer": "K.S.Chitra",
+      "genre": "Romantic",
+      "imgUrl": "https://images.news18.com/ibnlive/uploads/2023/04/wp-image-1032-168242740916x9.jpg",
+      "songUrl": "Songs/amarkalam.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Madharasapattinam",
+      "singer": "Harini, G.V.Prakash",
+      "genre": "Romantic",
+      "imgUrl": "https://tse4.mm.bing.net/th/id/OIP.yg8MnnLbUHMw56AylFeJjAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "songUrl": "Songs/pookal pookum.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Yamma Yamma kadhal ponnamma",
+      "singer": "S.P.Bala subramaniyan",
+      "genre": "Emotional",
+      "imgUrl": "https://4.bp.blogspot.com/-CR4gsCVDWdw/TnsohH6sLZI/AAAAAAAAAII/0edSiMp0HN8/s1600/7am+Arivu+%25282%2529.jpg",
+      "songUrl": "Songs/yamma yamma.mp3"
+    },
+    {
+      "id": "5",
+      "title": "I song",
+      "singer": "Anirudh Ravichander",
+      "genre": "Emotional",
+      "imgUrl": "https://nettv4u.com/imagine/i-movie-review.jpg?w=320",
+      "songUrl": "Songs/nilave vaa.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Viswasam(Kannana Kanne)",
+      "singer": "Thirumoorthy",
+      "genre": "Emotional",
+      "imgUrl": "https://www.lyricsila.com/wp-content/uploads/Kannana-Kanne-Lyrics-in-English-Viswasam-Tamil.jpg",
+      "songUrl": "Songs/munbe va.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Mouna Raagam(nilave vaa)",
+      "singer": "S.P.Balasubramaniyan",
+      "genre": "Emotional",
+      "imgUrl": "https://i.ytimg.com/vi/tlvrwacm5Bk/maxresdefault.jpg",
+      "songUrl": "Songs/munbe va.mp3"
+    }
+  ],
+  "favorities": [],
+  "playlist": [
+    {
+      "itemId": 6,
+      "title": "Ajith",
+      "imgUrl": "https://images.news18.com/ibnlive/uploads/2023/04/wp-image-1032-168242740916x9.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/munbe va.mp3",
+      "singer": "Arijit Singh",
+      "id": "4"
+    },
+    {
+      "id": "638e",
+      "itemId": "3",
+      "title": "Madharasapattinam",
+      "imgUrl": "https://tse4.mm.bing.net/th/id/OIP.yg8MnnLbUHMw56AylFeJjAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "genre": "Romantic",
+      "songUrl": "Songs/pookal pookum.mp3",
+      "singer": "Harini, G.V.Prakash"
+    },
+    {
+      "id": "b2aa",
+      "itemId": "4",
+      "title": "Yamma Yamma kadhal ponnamma",
+      "imgUrl": "https://4.bp.blogspot.com/-CR4gsCVDWdw/TnsohH6sLZI/AAAAAAAAAII/0edSiMp0HN8/s1600/7am+Arivu+%25282%2529.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/yamma yamma.mp3",
+      "singer": "S.P.Bala subramaniyan"
+    },
+    {
+      "id": "cd89",
+      "itemId": "7",
+      "title": "Mouna Raagam(nilave vaa)",
+      "imgUrl": "https://i.ytimg.com/vi/tlvrwacm5Bk/maxresdefault.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/munbe va.mp3",
+      "singer": "S.P.Balasubramaniyan"
+    }
+  ]
+}
